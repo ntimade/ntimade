@@ -18,7 +18,7 @@ Software engineer (Polytechnique de Douala, 2021) working as an IT manager and d
 
 ## Selected projects
 
-The source code is private. Demos and details are available on request.
+Most projects are public on my GitHub. NEY Sante is private. Demos and details are available on request.
 
 - **NEY Sante** - Hospital management ERP built with Laravel, deployed and maintained for client hospitals.
 - **MyPOS** - Multi-shop point-of-sale application (Laravel): cash sessions, sales, stock, customer debts, reports, receipts and invoices.
